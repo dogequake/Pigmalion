@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pigmalion", "Pigmalion\Pigmalion.csproj", "{2716B684-DD1A-4B00-BE6E-F362965A619E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2716B684-DD1A-4B00-BE6E-F362965A619E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2716B684-DD1A-4B00-BE6E-F362965A619E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2716B684-DD1A-4B00-BE6E-F362965A619E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2716B684-DD1A-4B00-BE6E-F362965A619E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8664788C-CB4E-4E43-AE4C-64A7A8CE804A}
+	EndGlobalSection
+EndGlobal

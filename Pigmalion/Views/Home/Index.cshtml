@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4"><a asp-controller="Clients" asp-action="Create">Подать заявление</a></h1>
+    <p>Если у вас есть заялвение введите номер телефона: </p>
+    <input type="tel" asp-controller="Clients" asp-action="Index" />
+    <input type="submit" value="Войти"/>
+</div>
